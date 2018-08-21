@@ -1,0 +1,37 @@
+PODS:
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - NSObject+Rx (4.3.0):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxOptional (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SnapKit (4.0.0)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - IGListKit
+  - NSObject+Rx
+  - RxCocoa
+  - RxOptional
+  - SnapKit
+  - Then
+
+SPEC CHECKSUMS:
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  NSObject+Rx: 9a5eeff5e08156f849fa973514456f28eef08742
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxOptional: fabc37fc8e3cf4c336ebaeb5c92b576c64b2e6c5
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: fb614c3eeef8bab99ecd41683f32936646e5c266
+
+COCOAPODS: 1.4.0
